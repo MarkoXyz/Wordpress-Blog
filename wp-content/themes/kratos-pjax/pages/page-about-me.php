@@ -1,3 +1,8 @@
+<?php
+/**
+Template Name: 自我介绍模版
+*/
+?>
 <!DOCTYPE html>
 <html>
 
@@ -8,12 +13,12 @@
     <meta http-equiv="Cache-Control" content="no-siteapp">
     <meta name="robots" content="index,follow">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-    <meta name="keywords" content="Moedog,狗子,主页">
-    <meta name="description" content="狗子的个人主页">
+    <meta name="keywords" content="主页">
+    <meta name="description" content="主页">
     <link rel="icon" type="image/x-icon" href="https:///www.markoxu.com/wp-content/themes/kratos-pjax/static/images/favicon.ico">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Moe-dog/prprpr.love@0.6/statics/css/main.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
-    <script src="https://cdn.jsdelivr.net/gh/Moe-dog/prprpr.love@0.6/statics/js/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://www.markoxu.com/wp-content/themes/kratos-pjax/static/css/main.css">
+    <link rel="stylesheet" href="https://www.markoxu.com/wp-content/themes/kratos-pjax/static/css/font-awesome.min.css">
+    <script src="https://www.markoxu.com/wp-content/themes/kratos-pjax/static/js/jquery.min.js"></script>
 </head>
 
 <body>
@@ -26,7 +31,7 @@
             <div class="rect5"></div>
         </div>
     </div>
-    <div class="bak" style="background-image: url(https://cn.bing.com/th?id=OHR.HamelinPool_ROW2019832185_1920x1080.jpg);"></div>
+    <div class="bak" style="background-image: url(https:///www.markoxu.com/wp-content/themes/kratos-pjax/static/images/login-background.jpg);"></div>
     <main>
         <div class="content">
             <div class="left">
