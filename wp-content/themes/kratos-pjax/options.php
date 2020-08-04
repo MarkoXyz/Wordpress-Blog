@@ -585,8 +585,14 @@ function optionsframework_options(){
         'std'=>'STARTTLS',
         'type'=>'text');
     $options[] = array(
-        'name'=>__('雪花设置','moedog'),
+        'name'=>__('画面设置','moedog'),
         'type'=>'heading');
+    $options[] = array(
+        'name'=>__('站点黑白','moedog'),
+        'desc'=>__('是否启用站点黑白功能','moedog'),
+        'id'=>'site_rip',
+        'std'=>'0',
+        'type'=>'checkbox');
     $options[] = array(
         'name'=>__('站点雪花','moedog'),
         'desc'=>__('是否启用站点雪花功能','moedog'),
@@ -595,7 +601,7 @@ function optionsframework_options(){
         'type'=>'checkbox');
     $options[] = array(
         'name'=>__('移动端是否显示','moedog'),
-        'desc'=>__('配置移动端是否显示，默认是','moedog'),
+        'desc'=>__('配置移动端是否显示，默认否','moedog'),
         'id'=>'snow_xb2016_mobile',
         'std'=>'1',
         'type'=>'checkbox');
