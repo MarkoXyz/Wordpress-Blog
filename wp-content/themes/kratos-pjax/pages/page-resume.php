@@ -94,7 +94,7 @@ Template Name: 个人简历模版
                                     <p class="line-p2"><i class="fa fa-user"></i> 本人主要负责上位机的设计和数据的收发。基于Qt平台设计操控界面以控制摄像头、传感器等监测设备，利用WebKit组件和百度地图API自动规划最佳移动路线，并通过GPS实时数据定位监测系统的位置。监测过程中，上位机可以实时捕获沿路画面与环境数据，并定时将采集到的数据上传至OneNET云平台中，方便后续的数据处理与分析。</p>
                                     <p class="line-p2"><i class="fa fa-check"></i> 按时完成了上位机的功能设计，并获得第十三届研究生电子设计竞赛三等奖。熟悉了Qt平台的基本操作，学习了百度地图API和GPS定位原理，了解了OneNET云平台的使用，加深了对开发和测试工作的理解。</p>
                                     <h2 class="title-h2"><i class="fa fa-briefcase"></i> 工作经历</h2>
-                                    <h4>英特尔公司&ensp;&ensp;&ensp;&ensp;软件开发发&ensp;&ensp;&ensp;&ensp;2019.06 - 至今</h4>
+                                    <h4>英特尔公司&ensp;&ensp;&ensp;&ensp;软件开发&ensp;&ensp;&ensp;&ensp;2019.06 - 至今</h4>
                                     <p class="line-p2"><i class="fa fa-flag"></i> CPU和内存性能是服务器性能的两大重要表现，本人参与了服务器性能测试系统的项目，主要负责服务器测试工作的前期自动化部署与环境配置，以及原始性能数据的简要解析。</p>
                                     <p class="line-p2"><i class="fa fa-user"></i> 通过PXE技术与Shell脚本自主定制服务器的操作系统和Linux内核，通过Linpack和Stream测试包组件对服务器的CPU与内存作压力检测，实时监控服务器性能并通过Socket通信将数据传输回NUC端，以作后期的数据处理与分析。</p>
                                     <p class="line-p2"><i class="fa fa-check"></i> 提供了一套完整的前期自动化部署和配置流程，编写了PXE批量自动部署参考文档，积极协助开发与测试人员解析服务器性能表现数据。强化了英文阅读和写作能力，加深了对服务器和Linux操作系统的理解。</p>
