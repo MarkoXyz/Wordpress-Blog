@@ -74,11 +74,6 @@ function kratos_widgets_init(){
         'name'=>__('侧边栏工具','moedog'),
         'id'=>'sidebar_tool',
         'before_widget'=>'<aside id="%1$s" class="widget %2$s clearfix">',
-        'mid_widget' => '<div>&nbsp;&nbsp;&nbsp;
-                <b><a style="color:red;" href="https://cloud.tencent.com/act/seckill" target="_blank"><i class="fa fa-flag"></i> 腾讯云秒杀</a></b>
-                <b><a style="color:red;" href="https://cn.aliyun.com/activity" target="_blank"><i class="fa fa-flag"></i> 阿里云秒杀</a></b>
-                <b><a style="color:red;" href="https://activity.huaweicloud.com/discount_area_v5/index.html" target="_blank"><i class="fa fa-flag"></i> 华为云秒杀</a></b>
-            </div>',
         'after_widget'=>'</aside>',
         'before_title'=>'<h4 class="widget-title">',
         'after_title'=>'</h4>'
@@ -118,7 +113,6 @@ class kratos_widget_ad extends WP_Widget {
         if(!empty($title)){ ?>
             <h4 class="widget-title"><?php echo $title; ?></h4><?php
         }
-        echo $mid_widget;
         if(!empty($imgurl)){ ?>
             <a href="<?php echo $aurl; ?>" target="_blank">
                 <img class="carousel-inner img-responsive img-rounded" src="<?php echo $imgurl; ?>" />

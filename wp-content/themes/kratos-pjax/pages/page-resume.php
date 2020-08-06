@@ -17,7 +17,7 @@ Template Name: 个人简历模版
         <meta name="format-detection" content="telphone=no,email=no">
         <link rel="icon" type="image/x-icon" href="https:///www.markoxu.com/wp-content/themes/kratos-pjax/static/images/favicon.ico">
         <title>个人简历-徐奕湛</title>
-        <link rel="stylesheet" id="fontawe-css" href="https://www.markoxu.com/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0" type="text/css">
+        <link rel="stylesheet" id="fontawe-css" href="https://www.markoxu.com/wp-content/themes/kratos-pjax/static/css/font-awesome.min.css?ver=4.7.0" type="text/css">
         <link rel="stylesheet" id="kratos-css" href="https://www.markoxu.com/wp-content/themes/kratos-pjax/static/css/kratos.min.css?ver=0.4.3" type="text/css">
         <link rel="stylesheet" href="https://www.markoxu.com/wp-content/themes/kratos-pjax/static/css/bootstrap.min.css" type="text/css">
         <style>
@@ -65,9 +65,9 @@ Template Name: 个人简历模版
                                         <div class="media-body">
                                             <h1 class="media-heading">徐奕湛</h1>
                                             <h4>求职意向：Java后台开发</h4>
-                                            <p class="line-p1"><i class="fa fa-birthday-cake"> 1994-09-26</i>&ensp;|&ensp;<i class="fa fa-home"> 上海</i></p>
-                                            <p class="line-p1"><i class="fa fa-phone"> 18301973839</i>&ensp;|&ensp;<a href="mailto:markoxyz94@gmail.com"><i class="fa fa-envelope"> markoxyz94@gmail.com</i></a></p>
-                                            <p class="line-p1"><a href="https://github.com/MarkoXyz" target="_blank"><i class="fa fa-github"> github.com/MarkoXyz</i></a>&ensp;|&ensp;<a href="https://www.markoxu.com" target="_blank"><i class="fa fa-pencil"> www.markoxu.com</i></a></p>
+                                            <p class="line-p1"><i class="fa fa-birthday-cake"></i> 1994-09-26&ensp;|&ensp;<i class="fa fa-home"> 上海</i></p>
+                                            <p class="line-p1"><i class="fa fa-phone"></i> 18301973839&ensp;|&ensp;<a href="mailto:markoxyz94@gmail.com"><i class="fa fa-envelope"></i> markoxyz94@gmail.com</a></p>
+                                            <p class="line-p1"><a href="https://github.com/MarkoXyz" target="_blank"><i class="fa fa-github"></i> github.com/MarkoXyz</a>&ensp;|&ensp;<a href="https://www.markoxu.com" target="_blank"><i class="fa fa-pencil"></i> www.markoxu.com</a></p>
                                         </div>
                                     </div>
                                     <h2 class="title-h2"><i class="fa fa-graduation-cap" aria-hidden="true"></i> 教育背景</h2>
@@ -86,7 +86,7 @@ Template Name: 个人简历模版
                                     <p class="line-p2"><i class="fa fa-user"></i> 本人主要负责服务器测试的前期工作，编写脚本定制服务器操作系统与内核并自动配置软件环境。在NUC机器上配置 DHCP、 TFTP 和HTTP 等服务，通过 PXE 技术和 Shell 脚本远程自动部署未安装操作系统的服务器。进一步地，通过 Python 和 Shell 脚本在服务器本地自动编译和更新 Linux内核，配置系统环境，以满足后续工作的要求。</p>
                                     <p class="line-p2"><i class="fa fa-check"></i> 撰写了PXE批量自动部署的参考文档。通过PXE技术自动部署服务器供后续开发人员使用，协助开发人员解析服务器的性能数据，最终提供完整的测试报告与可视化结果。加深了对 Linux 系统的理解，强化了网络通信的知识。</p>
                                     <h4>基于树莓派的眨眼打字系统&ensp;&ensp;&ensp;&ensp;图像处理&ensp;&ensp;&ensp;&ensp;2018.07 - 2018.08</h4>
-                                    <p class="line-p2"><i class="fa fa-flag"></i> 本项目基于树莓派和 Python 语言实现眨眼检测和字符输出，目的是帮助渐冻症患者“说话”。</p>
+                                    <p class="line-p2"><i class="fa fa-flag"></i> 本项目基于树莓派和Python语言实现眨眼检测和字符输出，目的是帮助渐冻症患者“说话”。</p>
                                     <p class="line-p2"><i class="fa fa-user"></i> 树莓派通过摄像头采集图像，使用OpenCV确定人脸位置并通过优化Dlib确定眼睛位置。根据眼部关键位置的长宽比来确定眼睛的睁闭状态。综合使用灰度处理、间隔跳帧、多线程等方式，使得本地实时图像处理速度达到了20fps，可以实时检测人眼的状态。基于眼睛睁闭的信号，用户可以自主选择屏幕上滚动的字符并输出到对话框中，基本实现了眨眼打字的功能。通过Socket套接字将图像传输到PC端作图像处理，可将检测速度提升至40∼50fps，性能表现更佳。</p>
                                     <p class="line-p2"><i class="fa fa-check"></i> 实现了眨眼检测算法，能够较准确地捕获眨眼动作并输出字符。该项目优化后可移植到嵌入式设备中，实现疲劳驾驶检测、眼动鼠标等功能。学习了图像处理的算法，掌握了基本的网络编程，学习了Linux的环境配置和第三方库本地编译。</p>
                                     <h4>基于Qt的环境监测系统上位机&ensp;&ensp;&ensp;&ensp;软件开发&ensp;&ensp;&ensp;&ensp;2018.04 - 2018.05</h4>

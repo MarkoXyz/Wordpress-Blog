@@ -1,5 +1,4 @@
-/*html {-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);-ms-filter: grayscale(100%);-o-filter: grayscale(100%);filter: grayscale(100%);filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);filter: gray;}*/
-﻿@charset "UTF-8";
+@charset "UTF-8";
 @-ms-viewport{width:device-width}
 @-webkit-keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}
 @keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}
