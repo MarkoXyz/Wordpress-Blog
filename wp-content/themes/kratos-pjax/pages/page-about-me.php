@@ -61,14 +61,18 @@ Template Name: 自我介绍模版
                             <i class="fa fa-home"></i>
                             <span>Blog</span>
                         </a>
-                        <a href="https://github.com" target="_blank" rel="noopener">
+                        <a href="https://github.com/MarkoXyz" target="_blank" rel="noopener">
                             <i class="fa fa-github"></i>
                             <span>GitHub</span>
                         </a>
-                        <a href="https://mail.qq.com/" target="_blank" rel="noopener">
+                        <a href="mailto:markoxyz94@gmail.com" target="_blank" rel="noopener">
                             <i class="fa fa-envelope"></i>
                             <span>E-Mail</span>
                         </a>
+                        <a href="https://weibo.com" target="_blank" rel="noopener">
+                            <i class="fa fa-weibo"></i>
+                            <span>Weibo</span>
+                        </a>                        
                         <a href="https://twitter.com" target="_blank" rel="noopener">
                             <i class="fa fa-twitter"></i>
                             <span>Twitter</span>
@@ -76,10 +80,6 @@ Template Name: 自我介绍模版
                         <a href="https://www.facebook.com" target="_blank" rel="noopener">
                             <i class="fa fa-facebook-official"></i>
                             <span>Facebook</span>
-                        </a>
-                        <a href="https://t.me" target="_blank" rel="noopener">
-                            <i class="fa fa-telegram"></i>
-                            <span>Telegram</span>
                         </a>
                     </div>
                 </section>
