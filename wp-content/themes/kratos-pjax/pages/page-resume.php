@@ -65,9 +65,9 @@ Template Name: 个人简历模版
                                         <div class="media-body">
                                             <h1 class="media-heading">徐奕湛</h1>
                                             <h4>求职意向：Java后台开发</h4>
-                                            <p class="line-p1"><i class="fa fa-birthday-cake"></i> 1994-09-26&ensp;|&ensp;<i class="fa fa-home"> 上海</i></p>
-                                            <p class="line-p1"><i class="fa fa-phone"></i> 18301973839&ensp;|&ensp;<a href="mailto:markoxyz94@gmail.com"><i class="fa fa-envelope"></i> markoxyz94@gmail.com</a></p>
-                                            <p class="line-p1"><a href="https://github.com/MarkoXyz" target="_blank"><i class="fa fa-github"></i> github.com/MarkoXyz</a>&ensp;|&ensp;<a href="https://www.markoxu.com" target="_blank"><i class="fa fa-pencil"></i> www.markoxu.com</a></p>
+                                            <p class="line-p1"><i class="fa fa-birthday-cake"> 1994-09-26</i>&ensp;|&ensp;<i class="fa fa-home"> 上海</i></p>
+                                            <p class="line-p1"><i class="fa fa-phone"> 18301973839</i>&ensp;|&ensp;<a href="mailto:markoxyz94@gmail.com"><i class="fa fa-envelope"> markoxyz94@gmail.com</i></a></p>
+                                            <p class="line-p1"><a href="https://github.com/MarkoXyz" target="_blank"><i class="fa fa-github"> github.com/MarkoXyz</i></a>&ensp;|&ensp;<a href="https://www.markoxu.com" target="_blank"><i class="fa fa-pencil"> www.markoxu.com</i></a></p>
                                         </div>
                                     </div>
                                     <h2 class="title-h2"><i class="fa fa-graduation-cap" aria-hidden="true"></i> 教育背景</h2>
