@@ -25,7 +25,8 @@
                 <i class="fa fa-weixin"></i>
             </div>
             <div class="share-int">
-                <div class="qrcode"><img src="https://api.fczbl.vip/qr/?m=0&url=<?php the_permalink() ?>" width="150" height="150"></div>
+                <!--<div class="qrcode"><img src="https://api.fczbl.vip/qr/?m=0&url=<?php the_permalink() ?>" width="150" height="150"></div>-->
+                <div class="qrcode"></div>
                 <p><?php _e('扫一扫，分享吧~','moedog'); ?></p>
             </div>
         </a>
@@ -58,4 +59,5 @@
         window.open(_URL);
     }
     </script>
+    <script>$('.qrcode').qrcode({height:150,width:150,text:"<?php the_permalink(); ?>"});</script>
 </div>
