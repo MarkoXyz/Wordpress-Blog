@@ -251,8 +251,8 @@ function optionsframework_options(){
         'std'=>'https://cdn.jsdelivr.net/gh/xb2016/kratos-pjax@'.KRATOS_VERSION.'/static/images/wechatpayqr.png',
         'type'=>'upload');
     $options[] = array(
-        'name'=>__('支付婊收款码','moedog'),
-        'desc'=>__('上传你的支付婊收款二维码图片，图片尺寸要大于200px','moedog'),
+        'name'=>__('支付宝收款码','moedog'),
+        'desc'=>__('上传支付包收款二维码图片，图片尺寸要大于200px','moedog'),
         'id'=>'alipayqr_url',
         'std'=>'https://cdn.jsdelivr.net/gh/xb2016/kratos-pjax@'.KRATOS_VERSION.'/static/images/alipayqr.png',
         'type'=>'upload');
