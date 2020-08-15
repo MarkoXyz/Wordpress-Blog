@@ -25,7 +25,7 @@
     <link rel="icon" type="image/x-icon" href="<?php echo kratos_option('site_ico'); ?>">
     <title><?php wp_title('-',true,'right'); ?></title>
     <?php wp_head();wp_print_scripts('theme-jq'); ?>
-    <script type="text/javascript" src="http://cdn.staticfile.org/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
+    <script type="text/javascript" src="https://www.markoxu.com/wp-content/themes/kratos-pjax/static/js/jquery.qrcode.min.js"></script>
     <style><?php
         echo '#offcanvas-menu{background:rgba('.kratos_option('mobi_color').')}';
         if(kratos_option('head_mode')=='pic'){
