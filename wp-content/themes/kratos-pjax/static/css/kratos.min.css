@@ -40,7 +40,7 @@ button,select{text-transform:none}
 button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:default,auto}
 button[disabled],html input[disabled]{cursor:url(../images/move.cur),auto}
 button::-moz-focus-inner,input::-moz-focus-inner{padding:0;border:0}
-blockquote{font-size:17.5px;margin:12px 0;border-left:5px solid #080808;padding:4px 0 5px 10px;background:#f1f1f1}
+blockquote{font-size:17.5px;margin:12px 0;border-left:5px solid #51aded;padding:4px 0 5px 10px;background:#f1f1f1}
 blockquote p:only-child{font-size:16px;color:#080808}
 blockquote ol:last-child,blockquote p:last-child,blockquote ul:last-child{margin-bottom:0}
 blockquote .small,blockquote small{display:block;font-size:80%;line-height:1.42857143;color:#777}
