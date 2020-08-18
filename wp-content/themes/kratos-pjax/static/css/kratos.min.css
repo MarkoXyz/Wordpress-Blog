@@ -56,7 +56,7 @@ dd,dt{line-height:1.42857143}
 dt{font-weight:700}
 dd{margin-left:0}
 fieldset{padding:.35em .625em .75em;margin:0 2px;border:1px solid silver;min-width:0;padding:0;margin:0;border:0}
-figure{margin:1em 40px 2em 40px}
+figure{margin:1em 0px 2em 0px}
 h1,h2,h3,h4,h5,h6{color:#333;font-weight:400;margin:0 0 15px 0;font-family:inherit;line-height:1.1}
 h1,h2,h3{margin-top:20px;margin-bottom:10px}
 h1 small,h2 small,h3 small{font-size:65%}
@@ -105,7 +105,7 @@ table{border-spacing:0;border-collapse:collapse;background-color:transparent}
 table col[class*=col-]{position:static;display:table-column;float:none}
 table td[class*=col-],table th[class*=col-]{position:static;display:table-cell;float:none}
 th{text-align:left}
-td,th{padding:0}
+td,th{padding:0;border:2px solid;text-align:center;}
 textarea{overflow:auto}
 .aplayer{background:#fff;font-family:Arial,Helvetica,sans-serif;margin:5px;box-shadow:0 2px 2px 0 rgba(0,0,0,.07),0 1px 5px 0 rgba(0,0,0,.1);border-radius:2px;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;line-height:normal;position:relative}
 .aplayer *{box-sizing:content-box}

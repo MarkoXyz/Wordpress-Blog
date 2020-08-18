@@ -362,8 +362,10 @@ jQuery(document).ready(function(jQuery) {
         }
     }
 });
+
 //highlight
 // hljs.initHighlightingOnLoad();
+
 //time
 var now = new Date();
 function createtime(){
