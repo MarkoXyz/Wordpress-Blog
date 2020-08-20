@@ -171,7 +171,7 @@
     var OwOcfg = function(){
         if($('#commentform').height()){
             var OwO_demo = new OwO({
-                logo:'OωO表情',
+                logo:' ୧(๑•̀⌄•́๑)૭ 表情',
                 container:document.getElementsByClassName('OwO')[0],
                 target:document.getElementsByClassName('OwO')[0],
                 api:xb.thome+'/inc/OwO.json',
