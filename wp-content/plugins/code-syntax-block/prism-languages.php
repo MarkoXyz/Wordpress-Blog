@@ -7,18 +7,19 @@
 function mkaz_code_syntax_block_get_supported_languages() {
 	
 	$languages = array(
+		"vim" => "vim",
 	    "python" => "Python",
 		"java" => "Java",
 		"cpp" => "C++",
-		"go" => "Go",
-		"vim" => "vim",
+		"c" => "C-like",
 		"json" => "JSON",
+		"go" => "Go",
+		"markdown" => "Markdown",
 		"nginx" => "nginx",
 		"docker" => "Docker",
 		"apacheconf" => "Apache Config",
 		"bash" => "Bash/Shell",
 		"basic" => "BASIC",
-		"c" => "C-like",
 		"csharp" => "C#",
 		"css" => "CSS",
 		"dart" => "Dart",
