@@ -18,7 +18,7 @@
             <div class="text">
                 <div onclick="window.open('<?php echo get_option('home'); ?>','_self')"><h1 >404</h1></div>
                 <h2>Not Found</h2>
-                <h3><?php _e('页面怎么不见了？！','moedog'); ?></h3>
+                <h2><?php _e('页面怎么不见了？','moedog'); ?></h2>
             </div>
         </div>
         <div class="footer">
